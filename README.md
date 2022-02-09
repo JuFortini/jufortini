@@ -1,4 +1,4 @@
-![capa](./assets/Capa.png)
+![capa](./assets/capaREADME.png)
 
 # Jucimara Fortini
 
@@ -6,15 +6,15 @@
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/jucimarafortini/" target="_blank">
-        <img src="./assets/colorInstagram.png" height=50 />
+        <img src="./assets/logoInstagram.png" height=50 />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/jucimara-alves-fortini-78b7bb196/" target="_blank">
-        <img src="./assets/coolLinkedin.png" height=50 />
+        <img src="./assets/logoLinkedin.png" height=50 />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wa.me/5522981480391" target="_blank">
-        <img src="./assets/whatsapp.png" height=50 />
+        <img src="./assets/logoWhatsapp.png" height=50 />
     </a>
 </p>
 
@@ -31,13 +31,15 @@ Tenho 30 anos, sou formada em Engenharia Civil pela UFRJ, onde eu descobri a pro
 
 </br>
 <p>
-    <img src="./assets/html5logo.png" height=50 title="HTML5" />&nbsp;&nbsp;
-    <img src="./assets/css3logo.png" height=50 title="CSS3" />&nbsp;&nbsp;
-    <img src="./assets/javascriptlogo.png" height=50 title="JavaScript" />&nbsp;&nbsp;
-    <img src="./assets/reactjs.png" height=50 title="React.js" />&nbsp;&nbsp;
-    <img src="./assets/nodejslogo.png" height=50 title="Node.js" />&nbsp;&nbsp;
-    <img src="./assets/gitlogo.png" height=50 title="Git" />&nbsp;&nbsp;
-    <img src="./assets/githublogo.png" height=50 title="GitHub" />
+    <img src="./assets/logoHTML5.png" height=50 title="HTML5" />&nbsp;&nbsp;
+    <img src="./assets/logoCSS3.png" height=50 title="CSS3" />&nbsp;&nbsp;
+    <img src="./assets/logoJavaScript.png" height=50 title="JavaScript" />&nbsp;&nbsp;
+    <img src="./assets/coolTypescript.png" height=50 title="TypeScript" />&nbsp;&nbsp;
+    <img src="./assets/logoReactjs.png" height=50 title="React.js" />&nbsp;&nbsp;
+    <img src="./assets/logoNodejs.png" height=50 title="Node.js" />&nbsp;&nbsp;
+    <img src="./assets/logoNextjs.png" height=50 title="Next.js" />&nbsp;&nbsp;
+    <img src="./assets/logoGit.png" height=50 title="Git" />&nbsp;&nbsp;
+    <img src="./assets/logoGitHub.png" height=50 title="GitHub" />
 </p>
 </br>
 
