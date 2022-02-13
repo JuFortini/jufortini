@@ -2,7 +2,7 @@
 
 # Jucimara Fortini
 
-</br>
+<br />
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/jucimarafortini/" target="_blank">
@@ -18,18 +18,22 @@
     </a>
 </p>
 
-</br>
-</br>
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=JuFortini&color=04cce6" alt="views" align="right">
+
+<br />
+<br />
 
 ## Hello World!!
 
 Tenho 30 anos, sou formada em Engenharia Civil pela UFRJ, onde eu descobri a programação e aí que a magia aconteceu. Eterna estudante e ainda uma iniciante neste universo, me apaixonando por cada linha de código, bug e/ou raiva que eu passo. 💖
 
-</br>
+<br />
 
 ### Tecnologias e Ferramentas
 
-</br>
+<br />
 <p>
     <img src="./assets/logoHTML5.png" height=50 title="HTML5" />&nbsp;&nbsp;
     <img src="./assets/logoCSS3.png" height=50 title="CSS3" />&nbsp;&nbsp;
@@ -41,7 +45,7 @@ Tenho 30 anos, sou formada em Engenharia Civil pela UFRJ, onde eu descobri a pro
     <img src="./assets/logoGit.png" height=50 title="Git" />&nbsp;&nbsp;
     <img src="./assets/logoGitHub.png" height=50 title="GitHub" />
 </p>
-</br>
+<br />
 
 🎯 Focando no desenvolvimento front-end
 
