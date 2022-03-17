@@ -23,7 +23,6 @@
 <img src="https://komarev.com/ghpvc/?username=JuFortini&color=04cce6" alt="views" align="right">
 
 <br />
-<br />
 
 ## Hello World!!
 
@@ -56,8 +55,3 @@ Tenho 30 anos, sou formada em Engenharia Civil pela UFRJ, onde eu descobri a pro
 ✨ Organizada e um pouco metódica, mas sou legal
 
 🚀 Bora codar?
-
-
-
-
-
