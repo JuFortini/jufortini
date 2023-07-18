@@ -26,7 +26,7 @@
 
 ## Hello World!!
 
-Tenho 31 anos, sou formada em Engenharia Civil pela UFRJ, onde eu descobri a programação e aí que a magia aconteceu. Eterna estudante e ainda uma iniciante neste universo, me apaixonando por cada linha de código, bug e/ou raiva que eu passo. 💖
+Tenho 31 anos, sou formada em Engenharia Civil pela UFRJ, onde eu descobri a programação e aí que a magia aconteceu. Eterna estudante e sempre me apaixonando por cada linha de código, bug e/ou raiva que eu passo. 💖
 
 <br />
 
