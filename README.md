@@ -46,9 +46,7 @@ Tenho 32 anos, sou formada em Engenharia Civil pela UFRJ, onde eu descobri a pro
 </p>
 <br />
 
-🎯 Focando no desenvolvimento front-end
-
-📚 Atualmente estudando React.js e o uso do framework Next.js
+📚 Atualmente trabalhando com desenvolvimento mobile utilizando Flutter
 
 💙 Apaixonada por gatos, livros de suspense e hambúrguer
 
